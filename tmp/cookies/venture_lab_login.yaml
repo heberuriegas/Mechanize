@@ -1,0 +1,27 @@
+---
+venture-lab.org:
+  /:
+    remember_user_token: !ruby/object:Mechanize::Cookie
+      version: 0
+      port: 
+      discard: 
+      comment_url: 
+      expires: Sat, 02 Jun 2012 19:59:52 GMT
+      max_age: 
+      comment: 
+      secure: false
+      path: /
+      domain: venture-lab.org
+      accessed_at: 2012-05-20 15:27:46.526357434 -05:00
+      created_at: 2012-05-20 15:27:46.522694259 -05:00
+      name: remember_user_token
+      value: BAhbB1sGaQKMNkkiGXBwMUIzU2JyOHlwM3plNk5DdTJLBjoGRVQ%3D--adb5ceaa57fba6d5df1e9aecc9752a9832890e52
+      for_domain: false
+      domain_name: !ruby/object:DomainName
+        ipaddr: 
+        hostname: venture-lab.org
+        uri_host: venture-lab.org
+        tld: org
+        canonical_tld_p: true
+        domain: venture-lab.org
+      session: false
